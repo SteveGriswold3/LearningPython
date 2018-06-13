@@ -2,7 +2,7 @@ Hello git World from the Command Line
 
 cd Documents/Python/gitLearningPyton/LearningPython
 
-git config --global user.email steve.griswold@usfoods.com
+git config --global user.email User@domain.com
 
 cd into the repo
 
